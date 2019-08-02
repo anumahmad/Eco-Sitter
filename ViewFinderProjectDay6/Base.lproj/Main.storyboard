@@ -63,7 +63,7 @@
                                 <color key="textColor" red="0.54117647058823526" green="0.63529411764705879" blue="0.49019607843137253" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Photo on 8-1-19 at 11.31 AM #2" translatesAutoresizingMaskIntoConstraints="NO" id="HRd-jb-NsF">
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="IMG_1965" translatesAutoresizingMaskIntoConstraints="NO" id="HRd-jb-NsF">
                                 <rect key="frame" x="186" y="740" width="652" height="436"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
@@ -544,7 +544,7 @@
         </scene>
     </scenes>
     <resources>
-        <image name="Photo on 8-1-19 at 11.31 AM #2" width="1080" height="720"/>
+        <image name="IMG_1965" width="4032" height="3024"/>
         <image name="Untitled_Artwork 2" width="2732" height="2048"/>
         <image name="stage1" width="2048" height="2048"/>
     </resources>
